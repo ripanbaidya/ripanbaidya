@@ -39,7 +39,6 @@
 </p>
 
 
-
 <!-- skills -->
 <h3 align="left">
   Skills
