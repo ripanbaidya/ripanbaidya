@@ -94,7 +94,7 @@
 
 <!-- leetcode -->
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7A02C&vCenter=true&width=400&lines=LeetCode+Profile;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;500%2B+Problems+Solved+%F0%9F%94%A5" alt="LeetCode Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7A02C&vCenter=true&width=400&lines=LeetCode+Profile;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;500%2B" alt="LeetCode Typing Animation" />
 </div>
 
 <p align="center">
