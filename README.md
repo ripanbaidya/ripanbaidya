@@ -75,23 +75,15 @@
 
 <!-- github -->
 <h3 align="left">
-  Github Profile
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="36px" style="margin-left: 10px;" />
+  GitHub Profile 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" />
 </h3>
 
-<p align="center">
-  <a href="https://github.com/ripan-baidya">
-    <img height=200 width=490 align="center" src="https://github-readme-stats.vercel.app/api?username=ripan-baidya&theme=github_dark&hide_border=true&border_color=EBDBB2&show_icons=true&border_radius=8&card_width=490" />
-  </a>
-  <a href="https://github.com/ripanbaidya">
-    <img height=200 width=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripan-baidya&theme=github_dark&show_icons=true&hide_border=true&size_weight=0.35&count_weight=0.45&langs_count=10&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8&exclude_repo=PROG_imageManipulation,dotfiles&hide=cmake,lua,makefile,gherkin" />
-  </a>
-</p>
-
-<!-- views count -->
-<p align="center">
+<div align="center">
+  <img src="https://img.shields.io/github/followers/ripan-baidya?label=Followers&style=for-the-badge&color=ff4362&labelColor=2a2139" />
+  <img src="https://img.shields.io/github/stars/ripan-baidya?label=Total%20Stars&style=for-the-badge&color=ff4362&labelColor=2a2139" />
   <img src="https://komarev.com/ghpvc/?username=ripanbaidya&label=Profile%20Views&color=0e75b6&style=flat" alt="ripanbaidya" />
-</p>
+</div>
 
 <!-- leetcode -->
 <div align="left">
@@ -106,14 +98,14 @@
 
 <!-- trophies -->
 
-<!-- 
+ 
 <h3 align="left">
   GitHub Trophies
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ5Njh3NzlpY2lzbXJrcnNrb2xyZG9ycGZiaTJ5d2FuOXU5YndsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w8n2baZc6j9wM/giphy.gif" width="40px" style="margin-left: 10px;" />
 </h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ripanbaidya&theme=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ripan-baidya&theme=flat" />
 </p>
 
--->
+
