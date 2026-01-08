@@ -1,3 +1,4 @@
+<!-- Heading -->
 <div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ripan+%F0%9F%91%8B;Let's+connect+%F0%9F%A4%9D" />
 </div>
