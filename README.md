@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ripan+%F0%9F%91%8B;Let's+connect+%F0%9F%A4%9D" />
 </div>
 
-<!-- about -->
+<!-- about me -->
 <p align="left">
   I'm a <b>Java Backend Developer</b> specializing in distributed systems that scale.
   I architect microservices, optimize high-load queries, and make decisions where performance meets reality.
@@ -24,12 +24,10 @@
   <li>Inspired by engineers building large-scale systems at FAANG — clean code, tough problems, real impact 💡</li>
 </ul>
 
-Btw, Don't forget to Check out my coding profiles on 📘 <a href="https://leetcode.com/u/ripan_baidya/" target="_blank">LeetCode</a> 💚 <a href="https://www.geeksforgeeks.org/user/idyariq08/" target="_blank">GeeksforGeeks</a>, It tooks countless hours to build.
+Btw, Don't forget to Check out my coding profiles on <a href="https://leetcode.com/u/ripan_baidya/" target="_blank">LeetCode</a> and <a href="https://www.geeksforgeeks.org/user/idyariq08/" target="_blank">GeeksforGeeks</a>, It tooks countless hours to build.
 
 <!-- connect with me -->
-<h3 align="left">
-  Let's connect! 🤝
-</h3>
+<h3 align="left">Let's connect! 🤝</h3>
   <a href="https://www.linkedin.com/in/ripanbaidya/" target="_blank" title="LinkedIn">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="40" width="40" style="margin: 0 15px;" />
   </a>
@@ -43,9 +41,7 @@ Btw, Don't forget to Check out my coding profiles on 📘 <a href="https://leetc
 
 
 <!-- skills -->
-<h3 align="left">
-  Skills ✳
-</h3>
+<h3 align="left">Skills</h3>
 
 <div style="width: 100%;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=%20&fontAlign=40&fontAlignY=40&fontSize=20" style="width: 100%;" />
@@ -77,6 +73,26 @@ Btw, Don't forget to Check out my coding profiles on 📘 <a href="https://leetc
 <!-- github -->
 <h3 align="left"> GitHub Profile </h3>
 <div align="center">
+  <a href="https://github.com/ripan-baidya">
+    <img align="center"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripan-baidya&theme=2077"
+         height="180em" />
+    <img align="center"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ripan-baidya&theme=2077"
+         height="180em" />
+    <img align="center"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ripan-baidya&theme=2077"
+         height="180em" />
+    <img align="center"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ripan-baidya&theme=2077"
+         height="180em" />
+    <img align="center"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ripan-baidya&theme=2077"
+         height="180em" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/github/followers/ripan-baidya?label=Followers&style=for-the-badge&color=ff4362&labelColor=2a2139" />
   <img src="https://img.shields.io/github/stars/ripan-baidya?label=Total%20Stars&style=for-the-badge&color=ff4362&labelColor=2a2139" />
   <img src="https://komarev.com/ghpvc/?username=ripanbaidya&label=Profile%20Views&color=0e75b6&style=flat" alt="ripanbaidya" />
@@ -91,9 +107,15 @@ Btw, Don't forget to Check out my coding profiles on 📘 <a href="https://leetc
 </p>
 
 <!-- trophies -->
-<h3 align="left"> GitHub Trophies 🏆 </h3>
+<!-- <h3 align="left"> GitHub Trophies 🏆 </h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ripan-baidya&theme=flat" />
-</p>
+</p> -->
+
+<!-- footer -->
+<div style="width: 100%;">
+<h3 align="center">Thank You for Visiting My Profile</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=%20&fontAlign=40&fontAlignY=40&fontSize=20" style="width: 100%;" />
+</div>
 
 
