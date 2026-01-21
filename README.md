@@ -63,19 +63,19 @@ Btw, Don't forget to Check out my coding profiles on <a href="https://leetcode.c
 ### GitHub Profile
 
 <div align="center">
-  <a href="https://github.com/ripan-baidya">
+  <a href="https://github.com/ripanbaidya">
     <img align="center"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripan-baidya&theme=2077"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripanbaidya&theme=2077"
          height="180em" />
     <img align="center"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ripan-baidya&theme=2077"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ripanbaidya&theme=2077"
          height="180em" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/ripan-baidya?label=Followers&style=for-the-badge&color=ff4362&labelColor=2a2139" />
-  <img src="https://img.shields.io/github/stars/ripan-baidya?label=Total%20Stars&style=for-the-badge&color=ff4362&labelColor=2a2139" />
+  <img src="https://img.shields.io/github/followers/ripanbaidya?label=Followers&style=for-the-badge&color=ff4362&labelColor=2a2139" />
+  <img src="https://img.shields.io/github/stars/ripanbaidya?label=Total%20Stars&style=for-the-badge&color=ff4362&labelColor=2a2139" />
 </div>
 
 ### LeetCode
