@@ -1,13 +1,15 @@
-### Hello, I'm Ripan 👋
+## Hello, I'm Ripan 👋
 
-I'm a <b>Java Backend Developer</b> specializing in distributed systems that scale.
+I'm a <b>Software Developer</b> specializing in distributed systems that scale.
 I architect microservices, optimize high-load queries, and make decisions where performance meets reality.
 <br>
-I solve problems daily—both in production code and on platforms like LeetCode (Guardian, 2264★).
-This practice sharpens the algorithmic thinking crucial for clean system design.
-My GitHub is a log of experiments, where I learn new technologies or break down ideas to their fundamentals.
+I solve problems daily—both in production code and on platforms like LeetCode (Guardian, 2291★).
+This practice improves my algorithmic thinking crucial for clean system design.
 <br>
-When I’m not on my Mac 🖥️, you’ll probably find me at the gym—training or running—or reading.
+My <b>Github</b> is a log of experiments, where I learn new technologies or break down ideas to their fundamentals.
+<br>
+When I’m not on my Beatufiul Mac 🖥️, you’ll probably find me at the gym—training or running—or reading.
+<br>
 The principle is constant growth, in code and out.
 
 ### More about me 🤫
@@ -21,39 +23,58 @@ Btw, Don't forget to Check out my coding profiles on <a href="https://leetcode.c
 
 ### Connect with me 🤝
 
-<a href="https://www.linkedin.com/in/ripanbaidya/" target="_blank" title="LinkedIn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="40" width="40" style="margin: 0 15px;" />
-</a>
-<a href="https://leetcode.com/u/ripanbaidya/" target="_blank" title="LeetCode">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" style="margin: 0 15px;" />
-</a>
-<a href="https://www.instagram.com/rbdya20/" target="_blank" title="Instagram">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin: 0 15px;" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ripanbaidya/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/ripan_baidya/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/futurenoogler/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" />
+  </a>
+</p>
 
 ### Skills
 
 <div style="width: 100%;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=%20&fontAlign=40&fontAlignY=40&fontSize=20" style="width: 100%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=%20" style="width: 100%;" />
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,cpp" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=kotlin,js,ts" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=tailwind,vite,figma" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" height="55"/>
+  <img src="https://skillicons.dev/icons?i=js,ts" height="50" />
 </p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,hibernate" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="55" height="55"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55"/>
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" height="55"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,maven" height="50" />
+</p>
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" height="55"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,vite" height="50" />
+</p>
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="55"/>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55"/>
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=git,jenkins,kafka,maven" height="50" />
+</p>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="55"/>
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" height="55"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" height="55"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="50" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,idea,figma" height="50" />
 </p>
 
 <div style="width: 100%;">
@@ -74,8 +95,9 @@ Btw, Don't forget to Check out my coding profiles on <a href="https://leetcode.c
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/ripanbaidya?label=Followers&style=for-the-badge&color=ff4362&labelColor=2a2139" />
-  <img src="https://img.shields.io/github/stars/ripanbaidya?label=Total%20Stars&style=for-the-badge&color=ff4362&labelColor=2a2139" />
+  <img src="https://komarev.com/ghpvc/?username=ripanbaidya&style=for-the-badge&color=18181b&label=Views" />
+  <img src="https://img.shields.io/github/followers/ripanbaidya?style=for-the-badge&color=18181b&labelColor=18181b&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/ripanbaidya?style=for-the-badge&color=18181b&labelColor=18181b&logo=github&logoColor=white" />
 </div>
 
 ### LeetCode
@@ -87,3 +109,7 @@ Btw, Don't forget to Check out my coding profiles on <a href="https://leetcode.c
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=%20&fontAlign=40&fontAlignY=40&fontSize=20" style="width: 100%;" />
+
+<div align="center">
+  Thank you!
+</div>
