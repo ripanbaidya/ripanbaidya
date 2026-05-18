@@ -43,37 +43,21 @@ Btw, Don't forget to Check out my coding profiles on <a href="https://leetcode.c
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=%20" style="width: 100%;" />
 </div>
 
-<p align="center">
+<p align="justify">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" height="55"/>
   <img src="https://skillicons.dev/icons?i=js,ts" height="50" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,hibernate" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" height="55"/>
   <img src="https://skillicons.dev/icons?i=rabbitmq,maven" height="50" />
-</p>
-
-<p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" height="55"/>
   <img src="https://skillicons.dev/icons?i=tailwind,vite" height="50" />
-</p>
-
-<p align="center">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="55"/>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" height="50" />
-</p>
-<p align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="55"/>
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" height="55"/>
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" height="55"/>
   <img src="https://skillicons.dev/icons?i=gcp" height="50" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="50" />
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,idea,figma" height="50" />
 </p>
 
