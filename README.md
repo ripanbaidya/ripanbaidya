@@ -46,9 +46,9 @@ I'm a full-stack Java developer proficient in building backend and cloud-native 
       </a>
     </td>
     <td align="center">
-      <a href="https://leetcode.com/u/ripan_baidya/" target="_blank">
+      <a href="https://leetcode.com/u/ripanbaidya/" target="_blank">
         <img
-          src="https://leetcard.jacoblin.cool/ripan_baidya?ext=contest"
+          src="https://leetcard.jacoblin.cool/ripanbaidya?ext=contest"
           alt="LeetCode Stats"
         />
       </a>
