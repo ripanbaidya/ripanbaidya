@@ -7,7 +7,7 @@ I'm a full-stack Java developer proficient in building backend and cloud-native 
 <a href="https://www.linkedin.com/in/ripanbaidya/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
 </a>
-<a href="https://www.instagram.com/nooglerx/" target="_blank">
+<a href="https://www.instagram.com/ridominus/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
 </a>
 
